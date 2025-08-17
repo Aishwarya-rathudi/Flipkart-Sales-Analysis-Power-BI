@@ -1,7 +1,9 @@
 🛒 Flipkart Sales Dashboard
 
 📊 Built with: Power BI
+
 📂 Domain: E-commerce Analytics
+
 🔗 Type: Business Intelligence & Insights
 
 ✨ Problem Statement
@@ -19,15 +21,21 @@ This dashboard provides a comprehensive sales and customer analysis for Flipkart
 🎁 Discount share & user distribution
 
 By analyzing these metrics, Flipkart can:
+
 ✔ Identify top-performing product categories & cities
+
 ✔ Understand customer buying behavior
+
 ✔ Optimize marketing & discount strategies
+
 ✔ Improve profitability through data-driven decisions
 
 ⚙️ Steps Followed
 
 1️⃣ Data loaded into Power BI Desktop from a CSV dataset.
+
 2️⃣ Data cleaned & transformed in Power Query Editor.
+
 3️⃣ Key visuals created for analysis:
 
 KPI Cards → Total Revenue, Customers, Order Value, Products Sold, Avg. Profits
@@ -45,15 +53,18 @@ KPI Cards → Total Revenue, Customers, Order Value, Products Sold, Avg. Profits
 📊 Column chart → Monthly Transacting Users (MTUs)
 
 🔻 Funnel charts → Top Customers by Products & Profits
+
 4️⃣ Report designed across multiple pages → Overview, Customer, Top Selling.
+
 5️⃣ Dashboard published to Power BI Service for sharing & collaboration.
 
 🖼️ Dashboard Snapshots
-📌 Overview Page
+
 
 👥 Customer & Profitability Analysis
 
 🔍 Insights
+
 📊 Business KPIs
 
 Total Revenue → ₹4bn
@@ -115,12 +126,17 @@ Other cities had more balanced discount distributions.
 📚 Key Learnings
 
 ✅ Building multi-page dashboards in Power BI
+
 ✅ Using different chart types (KPI cards, donut, treemap, funnel)
+
 ✅ Customer segmentation & profitability analysis
+
 ✅ Storytelling with business intelligence dashboards
 
 🚀 Future Enhancements
 
 🔹 Add time-based trend analysis (YoY, QoQ growth)
+
 🔹 Drill-through pages for category-level deep dives
+
 🔹 Integrate with SQL Server for automated refresh
