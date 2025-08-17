@@ -60,6 +60,7 @@ KPI Cards → Total Revenue, Customers, Order Value, Products Sold, Avg. Profits
 
 🖼️ Dashboard Snapshots
 
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/c506d56d-4485-4feb-b0d6-14f370d650dd" />
 
 👥 Customer & Profitability Analysis
 
