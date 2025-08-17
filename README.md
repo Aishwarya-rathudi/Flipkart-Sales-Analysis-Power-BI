@@ -49,10 +49,10 @@ Most profitable brands (GHH, IKEA, GHD, Himalaya, etc.)
 
 📷 Dashboard Preview
 🔹 Overview Dashboard
-(https://github.com/Aishwarya-rathudi/Flipkart-Sales-Analysis-Power-BI/blob/main/Image%201.png)
+(https://github.com/Aishwarya-rathudi/Flipkart-Sales-Analysis-Power-BI/blob/main/Image-1.png)
 
 🔹 Customer Dashboard
-https://github.com/Aishwarya-rathudi/Flipkart-Sales-Analysis-Power-BI/blob/main/Image%202.png
+(https://github.com/Aishwarya-rathudi/Flipkart-Sales-Analysis-Power-BI/blob/main/Image%202.png)
 
 🔹 Top Selling Dashboard
 
