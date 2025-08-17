@@ -70,7 +70,7 @@ KPI Cards → Total Revenue, Customers, Order Value, Products Sold, Avg. Profits
 
 🔹 Top Selling Dashboard
 
-<img width="1023" height="581" alt="Image" src="https://github.com/user-attachments/assets/052056d0-12e1-46eb-bef1-c34c420c0091" />
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/052056d0-12e1-46eb-bef1-c34c420c0091" />
 
 
 🔍 Insights
