@@ -1,77 +1,126 @@
-📊 Flipkart Sales Analysis - Power BI Dashboard
+🛒 Flipkart Sales Dashboard
 
-This project presents a comprehensive Sales Analysis Dashboard for Flipkart using Power BI.
-The dashboard provides valuable insights into revenue, customer distribution, product performance, and brand profitability.
+📊 Built with: Power BI
+📂 Domain: E-commerce Analytics
+🔗 Type: Business Intelligence & Insights
 
-🚀 Features
+✨ Problem Statement
 
-Key Metrics Overview
+This dashboard provides a comprehensive sales and customer analysis for Flipkart. It helps business stakeholders track:
 
-Total Revenue: $4B
+💰 Revenue, Profitability & Order Trends
 
-Total Customers: 1.8M
+📍 Sales distribution across cities
 
-Total Products Sold: 39.9M
+🛍️ Top-selling categories & gross monthly sales
 
-Average Order Value: 100
+👤 Customer segmentation (most products bought & most profitable)
 
-Average Profit: 12%
+🎁 Discount share & user distribution
 
-Sales Insights
+By analyzing these metrics, Flipkart can:
+✔ Identify top-performing product categories & cities
+✔ Understand customer buying behavior
+✔ Optimize marketing & discount strategies
+✔ Improve profitability through data-driven decisions
 
-Day-on-Day sales trend for the quarter
+⚙️ Steps Followed
 
-Monthly gross sales comparison (April, May, June)
+1️⃣ Data loaded into Power BI Desktop from a CSV dataset.
+2️⃣ Data cleaned & transformed in Power Query Editor.
+3️⃣ Key visuals created for analysis:
 
-Sales distribution across major cities (Delhi, HR-NCR, Bengaluru, Mumbai)
+KPI Cards → Total Revenue, Customers, Order Value, Products Sold, Avg. Profits
 
-Customer Insights
+📈 Line chart → DoD (Day-on-Day) Sales
 
-User distribution by city
+📊 Bar chart → Gross Sales per Month
 
-Monthly Transacting Users (MTUs)
+🍩 Donut chart → Sales by City
 
-Top customers by product quantity & profitability
+🌳 Tree map → Top Selling Categories
 
-Product & Category Insights
+🥧 Pie chart → User distribution & Discount share
 
-Top selling product categories (Dry Fruits, Masala & Oil, Atta-Rice-Dal, Vegetables & Fruits, etc.)
+📊 Column chart → Monthly Transacting Users (MTUs)
 
-Best performing products (Amul Taaza Toned Milk, Onion, Gold Full Cream, Hybrid Tomato, etc.)
+🔻 Funnel charts → Top Customers by Products & Profits
+4️⃣ Report designed across multiple pages → Overview, Customer, Top Selling.
+5️⃣ Dashboard published to Power BI Service for sharing & collaboration.
 
-Brand Insights
+🖼️ Dashboard Snapshots
+📌 Overview Page
 
-Top selling brands (IKEA, Amul, GMC, Mother Dairy, etc.)
+👥 Customer & Profitability Analysis
 
-Most discounted brands
+🔍 Insights
+📊 Business KPIs
 
-Most profitable brands (GHH, IKEA, GHD, Himalaya, etc.)
+Total Revenue → ₹4bn
 
-📷 Dashboard Preview
+Total Customers → 1.80M
 
-🔹 Overview Dashboard
-(https://github.com/Aishwarya-rathudi/Flipkart-Sales-Analysis-Power-BI/blob/main/Image-1.png)
+Average Order Value → ₹100
 
-🔹 Customer Dashboard
-(https://github.com/Aishwarya-rathudi/Flipkart-Sales-Analysis-Power-BI/blob/main/Image%202.png)
+Products Sold → 39.90M
 
-🔹 Top Selling Dashboard
-(https://github.com/Aishwarya-rathudi/Flipkart-Sales-Analysis-Power-BI/blob/main/Image-%203.png)
+Average Profit Margin → 12%
 
-🛠 Tools Used
+🏙️ Sales by City
 
-Power BI – For building interactive dashboards & reports
+Delhi → 48.63% (highest)
 
-MS Excel / CSV – Data source for cleaning & transformation
+HR-NCR → 24.23%
 
-DAX – Used for creating calculated measures and KPIs
+Bengaluru → 18.1%
 
-📌 Key Learnings
+Mumbai → 9.05%
 
-Improved understanding of sales performance trends
+👉 Delhi contributes almost half of total sales.
 
-Identified top-performing cities, customers, and brands
+🛒 Top Selling Categories
 
-Recognized profitability vs discount strategies
+Dry Fruits, Masala & Oil → ₹686M
 
-Practical exposure to data visualization & storytelling with Power BI
+Atta, Rice & Dal → ₹457M
+
+Vegetables & Fruits → ₹423M
+
+Other categories → Personal Care, Cleaning Essentials, Beverages, etc.
+
+👉 Grocery-related categories drive majority of revenue.
+
+👥 Customer Insights
+
+Top Customers (by products bought) → Max 258 orders
+
+Most Profitable Customers → Max profit contribution ₹14K
+
+Monthly Transacting Users (MTUs):
+
+April → 16M
+
+May → 13M
+
+June → 12M
+
+👉 User engagement slightly declined after April.
+
+🎁 Discounts
+
+Delhi customers enjoyed the largest discount share (31%).
+
+Other cities had more balanced discount distributions.
+
+📚 Key Learnings
+
+✅ Building multi-page dashboards in Power BI
+✅ Using different chart types (KPI cards, donut, treemap, funnel)
+✅ Customer segmentation & profitability analysis
+✅ Storytelling with business intelligence dashboards
+
+🚀 Future Enhancements
+
+🔹 Add time-based trend analysis (YoY, QoQ growth)
+🔹 Drill-through pages for category-level deep dives
+🔹 Integrate with SQL Server for automated refresh
