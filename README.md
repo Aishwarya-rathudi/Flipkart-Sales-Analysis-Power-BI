@@ -1,4 +1,4 @@
-🛒 Flipkart Sales Dashboard
+## 🛒 Flipkart Sales Dashboard
 
 📊 Built with: Power BI
 
@@ -6,7 +6,7 @@
 
 🔗 Type: Business Intelligence & Insights
 
-✨ Problem Statement
+## ✨ Problem Statement
 
 This dashboard provides a comprehensive sales and customer analysis for Flipkart. It helps business stakeholders track:
 
@@ -30,7 +30,7 @@ By analyzing these metrics, Flipkart can:
 
 ✔ Improve profitability through data-driven decisions
 
-⚙️ Steps Followed
+## ⚙️ Steps Followed
 
 1️⃣ Data loaded into Power BI Desktop from a CSV dataset.
 
@@ -58,24 +58,24 @@ KPI Cards → Total Revenue, Customers, Order Value, Products Sold, Avg. Profits
 
 5️⃣ Dashboard published to Power BI Service for sharing & collaboration.
 
-🖼️ Dashboard Snapshots
+## 🖼️ Dashboard Snapshots
 
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/c506d56d-4485-4feb-b0d6-14f370d650dd" />
 
 
-👥 Customer & Profitability Analysis
+### 👥 Customer & Profitability Analysis
 
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/7235af5e-0ce6-488a-9757-a4a9a5163154" />
 
 
-🔹 Top Selling Dashboard
+### 🔹 Top Selling Dashboard
 
 <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/052056d0-12e1-46eb-bef1-c34c420c0091" />
 
 
-🔍 Insights
+## 🔍 Insights
 
-📊 Business KPIs
+### 📊 Business KPIs
 
 Total Revenue → ₹4bn
 
@@ -87,7 +87,7 @@ Products Sold → 39.90M
 
 Average Profit Margin → 12%
 
-🏙️ Sales by City
+### 🏙️ Sales by City
 
 Delhi → 48.63% (highest)
 
@@ -99,7 +99,7 @@ Mumbai → 9.05%
 
 👉 Delhi contributes almost half of total sales.
 
-🛒 Top Selling Categories
+### 🛒 Top Selling Categories
 
 Dry Fruits, Masala & Oil → ₹686M
 
@@ -111,7 +111,7 @@ Other categories → Personal Care, Cleaning Essentials, Beverages, etc.
 
 👉 Grocery-related categories drive majority of revenue.
 
-👥 Customer Insights
+### 👥 Customer Insights
 
 Top Customers (by products bought) → Max 258 orders
 
@@ -127,13 +127,13 @@ June → 12M
 
 👉 User engagement slightly declined after April.
 
-🎁 Discounts
+### 🎁 Discounts
 
 Delhi customers enjoyed the largest discount share (31%).
 
 Other cities had more balanced discount distributions.
 
-📚 Key Learnings
+## 📚 Key Learnings
 
 ✅ Building multi-page dashboards in Power BI
 
@@ -143,7 +143,7 @@ Other cities had more balanced discount distributions.
 
 ✅ Storytelling with business intelligence dashboards
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 🔹 Add time-based trend analysis (YoY, QoQ growth)
 
